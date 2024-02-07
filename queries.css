@@ -1,0 +1,17 @@
+/* @media (max-width:600px) {
+    header{
+        height: 40px;
+        display:inline;
+        align-items: center;
+        justify-content: center;
+ 
+    }
+    .navbar a{
+        color: var(--text);
+        font-size: 1.1rem;
+        font-weight: 700;
+    margin-left: 35px;
+    transition: .3s;    
+    
+    }
+} */
