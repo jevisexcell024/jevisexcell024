@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 ## 📊 GitHub Analytics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cittykitten&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cittykitten&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
 
 
 ## 🧠 My  GitHub Streak and Contribution graph
 
 <p align="left" display="flex">
-  <img src="https://streak-stats.demolab.com/?user=Cittykitten&theme=react" width="40%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cittykitten&theme=react-dark" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=jevisexcell024&theme=react" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=react-dark" width="50%" />
 </p>
