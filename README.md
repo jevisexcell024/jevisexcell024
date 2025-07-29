@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jevisexcell024/jevisexcell024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...PodSync Pro
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...jevisexcell024@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...Mr Big Man
--->
+
