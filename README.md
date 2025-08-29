@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...Mr Big Man
 
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
