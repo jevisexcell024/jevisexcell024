@@ -14,7 +14,37 @@
 ---
 
 ### 🛠️ Tech Stack  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,nodejs" />
+
+
+<p align="left">
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="CSS" />
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="JavaScript" />
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js" />
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
+  <!-- GSAP -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/greensock.svg" height="35" alt="GSAP" />
+  <!-- TypeScript -->
+  <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="TypeScript" />
+  <!-- Go -->
+  <img src="https://skillicons.dev/icons?i=go" height="35" alt="Go" />
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="Git" />
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub" />
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" />
+  <!-- Figma -->
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="Figma" />
+  <!-- WordPress -->
+  <img src="https://skillicons.dev/icons?i=wordpress" height="35" alt="WordPress" />
+</p>
+
 
 ---
 
