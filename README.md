@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Jevis  
-### 🚀 Frontend Developer | UI/UX Enthusiast | Open-Source Contributor  
+ 👋 Hi, I'm Jephthah 
+ 🚀 Frontend Developer | UI/UX Enthusiast | Open-Source Contributor  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF1178&width=600&lines=Frontend+Developer;Clean+UI%2FUX+Lover;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing Animation" />
 
 ---
 
-### 👨‍💻 About Me  
-- 🔭 Currently building **awesome web projects**  
-- 🌱 Exploring **Next.js, TypeScript & AI tools**  
-- 💡 Love teaching & mentoring developers  
-- ⚡ Fun fact: *I blend design + code for beautiful apps*  
+
+- 🔭 I’m currently working on ...PodSync Pro
+- 🌱 I’m currently learning ...React
+- 👯 I’m looking to collaborate on ...Github
+- 🤔 I’m looking for help with ...Gsap
+- 💬 Ask me about ...
+- 📫 How to reach me: ...jevisexcell024@gmail.com
+- 😄 Pronouns: ...he/him
+- ⚡ Fun fact: ...Mr Big Man  
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,typescript,go,git,github,vscode,figma,wordpress" height="32"/>
   <!-- GSAP custom with purple background -->
@@ -51,7 +55,7 @@
 
 ### 🤝 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
+  <a href="https://www.linkedin.com/in/jephthah-essel-126232313" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
   <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
 </p>
