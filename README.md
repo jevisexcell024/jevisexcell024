@@ -1,5 +1,5 @@
  👋 Hi, I'm Jephthah 
- 🚀 Frontend Developer | UI/UX Enthusiast | Open-Source Contributor  
+ 🚀 Frontend Developer | UI/UX Enthusiast- Open-Source Contributor  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF1178&width=600&lines=Frontend+Developer;Clean+UI%2FUX+Lover;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing Animation" />
 
@@ -48,7 +48,7 @@
 
 ### 📈 Contribution Activity  
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="60%"/>
 </p>
 
 ---
@@ -57,5 +57,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jephthah-essel-126232313" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
   <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
+  <a href="mailto:jevisexcell024@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
 </p>
