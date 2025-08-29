@@ -53,7 +53,9 @@
 <!-- 3D Contribution Graph -->
 ### 🌀 3D Contributions  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jevisexcell024/jevisexcell024/output/github-contribution-grid-snake.svg" alt="3D Snake Contributions" />
+  <img src="https://raw.githubusercontent.com/jevisexcell024/jevisexcell024/output/github-contribution-grid-snake.svg" alt="Snake Contributions SVG"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/jevisexcell024/jevisexcell024/output/github-contribution-grid-snake.gif" alt="Snake Contributions GIF"/>
 </div>
 
 ---
