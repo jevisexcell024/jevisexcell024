@@ -27,7 +27,8 @@
   <!-- React -->
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
   <!-- GSAP (with background) -->
-  <img src="https://img.icons8.com/?size=100&id=3gFAk5t2YqUn&format=png&color=000000" height="35" style="background:white; border-radius:8px; padding:4px;" alt="GSAP" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/greensock.svg" height="35" style="background:#a629ff; border-radius:8px; padding:4px;" alt="GSAP" />
+
   <!-- TypeScript -->
   <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="TypeScript" />
   <!-- Go -->
