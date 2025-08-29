@@ -31,7 +31,8 @@
 ---
 
 ### 📌 Profile Summary  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" alt="Profile Summary"/>  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" width="100%" alt="Profile Summary Banner"/>  
 
 ---
 
