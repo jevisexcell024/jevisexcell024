@@ -20,14 +20,17 @@
 
 ### 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>  
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>  
+<br clear="both"/>
 
 ---
 
 ### 📌 Profile Summary  
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" alt="Profile Summary"/>  
 
 ---
