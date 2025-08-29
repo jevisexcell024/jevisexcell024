@@ -33,7 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true" height="200" alt="GitHub Stats"/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=jevisexcell024&theme=radical&hide_border=true" height="200" alt="GitHub Streak"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jevisexcell024&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical&hide_border=true" height="200" alt="Top Languages"/>
