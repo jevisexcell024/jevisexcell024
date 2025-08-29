@@ -51,7 +51,7 @@
 ### 📆 Contribution Activity  
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
