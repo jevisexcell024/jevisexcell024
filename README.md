@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="200" alt="Jevis's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true" height="200" alt="Jevis's GitHub Stats"/>
 </div>
+
 
 
 
