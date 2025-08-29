@@ -20,10 +20,10 @@
 
 ### 📊 GitHub Stats  
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 <br clear="both"/>
@@ -33,6 +33,20 @@
 ### 📌 Profile Summary  
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" width="100%" alt="Profile Summary Banner"/>  
+
+---
+
+### 📈 Extra GitHub Insights  
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jevisexcell024&theme=radical" height="150" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jevisexcell024&theme=radical" height="150" alt="Most Commit Language"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jevisexcell024&theme=radical" height="150" alt="GitHub Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jevisexcell024&theme=radical&utcOffset=0" height="150" alt="Productive Time"/>
+</p>
 
 ---
 
