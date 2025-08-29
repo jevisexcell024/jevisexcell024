@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical&rank_icon=default&include_all_commits=true&count_private=true&hide_border=true" height="200" alt="Jevis's GitHub Stats"/>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jevisexcell024&show_icons=true&theme=radical" alt="Teea's GitHub stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical" alt="Top Langs" height="160"/> 
 </div>
+
 
 
 
