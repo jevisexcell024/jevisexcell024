@@ -26,9 +26,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="Node.js" />
   <!-- React -->
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="React" />
-  <!-- GSAP (with background) -->
+  <!-- GSAP (purple background) -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/greensock.svg" height="35" style="background:#a629ff; border-radius:8px; padding:4px;" alt="GSAP" />
-
   <!-- TypeScript -->
   <img src="https://skillicons.dev/icons?i=typescript" height="35" alt="TypeScript" />
   <!-- Go -->
@@ -44,6 +43,7 @@
   <!-- WordPress -->
   <img src="https://skillicons.dev/icons?i=wordpress" height="35" alt="WordPress" />
 </p>
+
 
 
 ---
