@@ -36,7 +36,7 @@
 
 ### 📌 Profile Insights  
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" width="60%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" width="50%"/>
 </p>
 
 <p align="left">
@@ -52,7 +52,7 @@
 
 ### 📈 Contribution Activity  
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="60%"/>
 </p>
 
 <!-- Snake Animation con enlace a Platane/snk -->
