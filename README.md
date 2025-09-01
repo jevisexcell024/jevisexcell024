@@ -38,8 +38,6 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" width="50%"/>
 
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jevisexcell024&theme=radical" height="120"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jevisexcell024&theme=radical&utcOffset=0" height="120"/>
 </p>
