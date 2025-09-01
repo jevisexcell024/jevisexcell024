@@ -44,11 +44,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jevisexcell024&theme=radical&utcOffset=0" height="120"/>
 </p>
 
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/jevisexcell024?theme=radical&font=Fira%20Code&ext=heatmap" height="200"/> <!-- line 4: replace YOUR-LEETCODE-USERNAME with your handle -->
+</p>
+
 ---
 
 ### 📈 Contribution Activity  
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="60%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="40%"/>
 </p>
 
 <!-- Snake Animation con enlace a Platane/snk -->
@@ -58,6 +62,11 @@
     src="https://raw.githubusercontent.com/marichu-kt/marichu-kt/output/github-snake-dark.svg"
   />
 </a>
+<p align="center">
+  <a href="https://count.getloli.com/" target="_blank">
+    <img src="https://count.getloli.com/get/@jevisexcell240?theme=3d-num" alt="Visitor counter" />
+  </a>
+</p>
 
 ### 🤝 Connect with Me  
 <p align="left">
