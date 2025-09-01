@@ -37,7 +37,7 @@
 ### 📌 Profile Insights  
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jevisexcell024&theme=radical" width="50%"/>
-</p>
+
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jevisexcell024&theme=radical" height="120"/>
