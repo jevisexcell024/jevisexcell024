@@ -51,11 +51,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="60%"/>
 </p>
 
-### snake animation
+<!-- Snake Animation con enlace a Platane/snk -->
 <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
   <img
     alt="github contribution snake dark"
-    src="https://raw.githubusercontent.com/jevisexcell024/jevisexcell024/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/marichu-kt/marichu-kt/output/github-snake-dark.svg"
   />
 </a>
 
