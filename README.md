@@ -52,7 +52,10 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevisexcell024&theme=radical&hide_border=true&area=true" width="60%"/>
 
-
+<div align="center">
+  <!-- Asegúrate de que la acción de GitHub para generar esta imagen esté configurada y funcionando -->
+  <img src="https://raw.githubusercontent.com/jevisexcell024/jevisexcell024/main/profile-3d-contrib/profile-green.svg" alt="3D-Jevis Contribution"/>
+</div>
 <!-- Snake Animation con enlace a Platane/snk -->
 <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
   <img
