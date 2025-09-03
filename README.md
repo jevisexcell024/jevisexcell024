@@ -1,4 +1,4 @@
- 👋 Hi, I'm Jephthah 
+ 👋 Hi, I'm Jephthah Essel
  🚀 Frontend Developer | UI/UX Enthusiast- Open-Source Contributor  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF1178&width=600&lines=Frontend+Developer;Clean+UI%2FUX+Lover;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing Animation" />
