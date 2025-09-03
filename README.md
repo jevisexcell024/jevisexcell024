@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...Mr Big Man  
 
----
+
 
 ### 🛠 Tools  
 <p align="left">
@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/greensock.svg" height="32" style="background:#a629ff; border-radius:6px; padding:4px;" alt="GSAP"/>
 </p>
 
----
+
 
 ### 📊 GitHub Overview  
 <p align="left">
@@ -32,7 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevisexcell024&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
----
 
 ### 📌 Profile Insights  
 <p align="left">
@@ -46,7 +45,7 @@
   <img src="https://leetcard.jacoblin.cool/jevisexcell024?theme=radical&font=Fira%20Code&ext=heatmap" height="200"/> <!-- line 4: replace YOUR-LEETCODE-USERNAME with your handle -->
 </p>
 
----
+
 
 ### 📈 Contribution Activity  
 <p align="left">
