@@ -40,9 +40,4 @@
   </a>
 </p>
 
-### 🤝 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/jephthah-essel-126232313" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="28"/></a>
-  <a href="mailto:jevisexcell024@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
-</p>
+
